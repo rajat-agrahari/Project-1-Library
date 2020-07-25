@@ -1,0 +1,41 @@
+body{
+    background: rgb(168 152 155 / 40%);
+}
+.head-font{
+    font-family: 'Balsamiq Sans', cursive;      /*For heading font style  */
+}
+.font-oxygen{
+    font-family: 'Oxygen', sans-serif;          /*For Row heading & Home font style  */
+}
+.font-text{
+    /* font-family: 'Rubik', sans-serif;           For Booklist text font style  */
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 500;
+}
+.form-container{
+    border: 1.2mm ridge rgba(185, 175, 187, 0.938);    /*Grab the input Form*/
+    padding: 1.2em;
+    box-sizing: border-box;
+}
+hr{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;   
+    border-top: 1.2px solid rgb(11 11 11 / 46%);
+}
+.rowSearch{
+    background-color: rgba(170, 173, 202, 0.801);          /* background color of row table*/
+}
+.form-group{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+footer{
+    text-align: center;
+    margin-bottom:2em;
+    margin-top:2em;
+    font-weight: 600;
+    font-size: 1.2em;
+    background: rgb(8, 15, 80);
+    color: rgb(253, 247, 247);
+    padding: 0.5em;
+}
